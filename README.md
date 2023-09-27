@@ -4,7 +4,8 @@
 I'M <b>NANABALL.</b><br/>
 Nide to meet you. everyone. 
 
-🌱 I’m currently learning MD, html, css and Github.
+🌱 I’m currently learning MD, html, css and Github.<br/>
+I need a lot of your help.
 
 
 
@@ -16,6 +17,7 @@ Nide to meet you. everyone.
 
 
 ### THANK YOU, BYE🤗
+
 
 <!-- ### Hi there 👋 -->
 
