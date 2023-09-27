@@ -19,6 +19,10 @@ i need many your help.
 
 <!-- ### Hi there 👋 -->
 
+
+![stat](https://github-readme-stats.vercel.app/api?username=nanaball&hide_title=true&show_icons=[%E2%80%A6])
+![top](https://github-readme-stats.vercel.app/api/top-langs/?username=nanaball)
+
 <!--
 **nanaball/nanaball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
