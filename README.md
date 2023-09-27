@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=I%20AM..&fontSize=50)
+
 ## HI! HELLO! 👋
+I'M <b>NANABALL.</b><br/>
 Nide to meet you. everyone. 
 
 🌱 I’m currently learning MD. and Git hub tutorial.
