@@ -1,4 +1,13 @@
-### Hi there 👋
+## HI! HELLO! 👋
+Nide to meet you. everyone. 
+
+🌱 I’m currently learning MD. and Git hub tutorial.
+i need many your help. 
+
+
+### THANK YOU, BYE🤗
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **nanaball/nanaball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
