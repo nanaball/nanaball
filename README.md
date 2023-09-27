@@ -5,6 +5,13 @@ Nide to meet you. everyone.
 i need many your help. 
 
 
+## My skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26)
+![HTML](https://img.shields.io/badge/CSS-1572B6)
+
+
+
 ### THANK YOU, BYE🤗
 
 <!-- ### Hi there 👋 -->
