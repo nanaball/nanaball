@@ -4,8 +4,8 @@
 I'M <b>NANABALL.</b><br/>
 Nide to meet you. everyone. 
 
-🌱 I’m currently learning MD. and Git hub tutorial.
-i need many your help. 
+🌱 I’m currently learning MD, html, css and Github.
+
 
 
 ## My skills
