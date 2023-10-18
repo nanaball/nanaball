@@ -14,6 +14,7 @@ I need a lot of your help.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![HTML](https://img.shields.io/badge/CSS-1572B6)
+![HTML](https://img.shields.io/badge/logo-javascript-yellow?logo=javascript)
 
 
 
