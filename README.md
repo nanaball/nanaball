@@ -17,7 +17,7 @@ I need a lot of your help.
 ![HTML](https://img.shields.io/badge/javascript-yellow)
 ![HTML](https://img.shields.io/badge/Linux-green)
 ![HTML](https://img.shields.io/badge/Java-skyblue)
-
+![HTML](https://img.shields.io/badge/Java-pink)
 
 ### THANK YOU, BYE🤗
 
