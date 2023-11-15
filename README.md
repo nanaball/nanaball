@@ -5,7 +5,7 @@
 I'M <b>NANABALL.</b><br/>
 Nide to meet you. everyone. 
 
-🌱 I’m currently learning MD, html, css and Github.<br/>
+🌱 I’m currently learning MD, HTML, CSS, JSC, JQUERY, JAVA, LINUX and Github.<br/>
 I need a lot of your help.
 
 
@@ -19,6 +19,9 @@ I need a lot of your help.
 ![HTML](https://img.shields.io/badge/Linux-green)
 ![HTML](https://img.shields.io/badge/Java-skyblue)
 ![HTML](https://img.shields.io/badge/Java-pink)
+![HTML](https://img.shields.io/badge/Java-orange)
+![HTML](https://img.shields.io/badge/Java-BBE309)
+![HTML](https://img.shields.io/badge/Java-brown)
 
 ### THANK YOU, BYE🤗
 
