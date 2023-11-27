@@ -18,7 +18,7 @@ I need a lot of your help.
 ![HTML](https://img.shields.io/badge/JQuery-salmon)
 ![HTML](https://img.shields.io/badge/Linux-green)
 ![HTML](https://img.shields.io/badge/Java-skyblue)
-![HTML](https://img.shields.io/badge/Java-pink)
+![HTML](https://img.shields.io/badge/SQL-pink)
 ![HTML](https://img.shields.io/badge/Java-orange)
 ![HTML](https://img.shields.io/badge/Java-BBE309)
 ![HTML](https://img.shields.io/badge/Java-brown)
