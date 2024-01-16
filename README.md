@@ -20,7 +20,7 @@ I need a lot of your help.
 ![HTML](https://img.shields.io/badge/Java-skyblue)
 ![HTML](https://img.shields.io/badge/MySQL-pink)
 ![HTML](https://img.shields.io/badge/GUI-orange)
-![HTML](https://img.shields.io/badge/Java-BBE309)
+![HTML](https://img.shields.io/badge/Spring-BBE309)
 ![HTML](https://img.shields.io/badge/Java-brown)
 
 ### THANK YOU, BYE🤗
